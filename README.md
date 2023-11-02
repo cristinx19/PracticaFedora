@@ -1,4 +1,4 @@
-# Práctica Fedora
+# Práctica Fedora 1.3
 ## Crear instancia Fedora.
 
 Primero de todo vamos a crear una instancia en OpenStack de Fedora.
